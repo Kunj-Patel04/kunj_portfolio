@@ -11,7 +11,7 @@ const portfolioData = {
     
     // Hero Image: Leave empty ("") to use the default animated gradient shape, 
     // or provide a direct image URL (e.g., "https://example.com/myphoto.jpg")
-    photoURL: "",  // C:/Users/kunjf/Desktop/Portfolio/kunj_photo.jpeg
+    photoURL: "kunj_photo.jpeg",  // C:/Users/kunjf/Desktop/Portfolio/kunj_photo.jpeg
 
     // About Section
     about: {
