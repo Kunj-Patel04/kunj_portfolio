@@ -25,6 +25,11 @@ const portfolioData = {
     // Projects Section
     projects: [
         {
+            title: "Autoloop",
+            description: "Developed a multi-tenant vehicle scraping and lead management platform. Engineered a comprehensive workflow to manage four types of vehicle leads, transitioning from initial parking entry to automated job card creation. Implemented dynamic menus and strict role-based access controls for multiple users across various tenant branches. Built an end-to-end inventory module to evaluate extracted vehicle parts, log them into inventory, and seamlessly generate trackable sales orders.",
+            tags: ["Java", "Spring Boot", "PostgreSQL", "REST APIs"]
+        },
+        {
             title: "Broker Buz",
             description: "Developed a multi-tenant, branch-based real estate platform for managing properties, leads, brokers, builders, and property units. Built scalable REST APIs with tenant and branch-level data isolation, business workflows, and integrated Google Calendar API for calendar and event management.",
             tags: ["Java", "Spring Boot", "Intellij Idea", "PostgreSQL"]
