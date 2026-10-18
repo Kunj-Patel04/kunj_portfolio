@@ -78,6 +78,7 @@ document.addEventListener('DOMContentLoaded', () => {
         imageBox.style.background = 'transparent';
         imageBox.style.animation = 'none'; // Stop morphing if real image is provided
         imageBox.style.borderRadius = '50%'; // Make it a circle
+        imageBox.style.boxShadow = 'none'; // <-- ADD THIS LINE
     }
 
     // Populate About
